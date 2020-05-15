@@ -1,4 +1,5 @@
 f = open("./testChannels_t1c.cfg", "r")
+
 g = open("testNamesOfPredictions.cfg","a")
 line = f.readline()
 while line:
